@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @domkab
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning css html javascript
-- 💞️ I’m looking to collaborate on any design projects
+- 🌱 I’m currently learning React.js
+- 💞️ I’m looking to collaborate on React.js projects
 - 📫 How to reach me : dominykas.bobinas@gmail.com
 
 <!---
