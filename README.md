@@ -9,10 +9,15 @@ I'm a passionate web developer, constantly honing my skills and exploring new te
 ## I’m looking to collaborate on: 💞️
 - React.js projects where I can contribute my knowledge, learn from others, and deliver value.
 
-## My CSS Layout Projects 🖥️
-- [Kickstarter Layout](https://domkab.github.io/Kickstarter)
-- [Miami Layout](https://domkab.github.io/layout_miami/)
-- [Creative Bakery Layout](https://domkab.github.io/layout_creativeBakery/)
+## My Projects 🖥️
+- CSS Layouts:
+  - [Kickstarter Layout](https://domkab.github.io/Kickstarter)
+  - [Miami Layout](https://domkab.github.io/layout_miami/)
+  - [Creative Bakery Layout](https://domkab.github.io/layout_creativeBakery/)
+- JavaScript Game:
+  - [2048 Game](https://github.com/domkab/js_2048_game)
+- React Applications:
+  - [Dynamic Todo List](https://github.com/domkab/react_dynamic-list-of-todos)
 
 ## How to reach me 📫
 - Email: [dominykas.bobinas@gmail.com](mailto:dominykas.bobinas@gmail.com)
