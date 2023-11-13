@@ -15,7 +15,7 @@ I'm a passionate web developer, constantly honing my skills and exploring new te
   - [Miami Layout](https://domkab.github.io/layout_miami/)
   - [Creative Bakery Layout](https://domkab.github.io/layout_creativeBakery/)
 - JavaScript Game:
-  - [2048 Game]([https://github.com/domkab/js_2048_game](https://domkab.github.io/js_2048_game))
+  - [2048 Game](https://domkab.github.io/js_2048_game/)
 - React Applications:
   - [Dynamic Todo List](https://github.com/domkab/react_dynamic-list-of-todos)
 
