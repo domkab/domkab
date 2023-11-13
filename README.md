@@ -17,7 +17,7 @@ I'm a passionate web developer, constantly honing my skills and exploring new te
 - JavaScript Game:
   - [2048 Game](https://domkab.github.io/js_2048_game/)
 - React Applications:
-  - [Dynamic Todo List](https://github.com/domkab/react_dynamic-list-of-todos)
+  - [Dynamic Todo List](https://domkab.github.io/react_dynamic-list-of-todos/)
 
 ## How to reach me 📫
 - Email: [dominykas.bobinas@gmail.com](mailto:dominykas.bobinas@gmail.com)
