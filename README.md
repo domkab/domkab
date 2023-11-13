@@ -20,7 +20,7 @@ I'm a passionate web developer, constantly honing my skills and exploring new te
   - [Dynamic Todo List](https://domkab.github.io/react_dynamic-list-of-todos/)
 
 ## How to reach me 📫
+- LinkedIn: [DominykasBobinas](https://www.linkedin.com/in/dominykas-bobinas-b7159a225/)
 - Email: [dominykas.bobinas@gmail.com](mailto:dominykas.bobinas@gmail.com)
 - GitHub: [@domkab](https://github.com/domkab)
-
 <!-- Your footer here -->
