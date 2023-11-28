@@ -12,10 +12,10 @@ I'm a passionate web developer, constantly honing my skills and exploring new te
 ## My Projects 🖥️
 
 ### CSS Layouts:
-- [Kickstarter Layout](https://domkab.github.io/Kickstarter)  
-  - Source Code: [GitHub Repository]((https://github.com/domkab/Kickstarter/tree/develop/src))
-- [Miami Layout](https://domkab.github.io/layout_miami/)  
-  - Source Code: [GitHub Repository](https://github.com/your-username/miami-layout-repo)
+- [Kickstarter Layout](https://domkab.github.io/Kickstarter)
+  - Source Code: [GitHub Repository](https://github.com/domkab/Kickstarter/tree/develop/src)
+- [MyBike Layout](https://domkab.github.io/layout_miami/)
+  - Source Code: [GitHub Repository](https://github.com/domkab/layout_miami/tree/develop/src)
 - [Creative Bakery Layout](https://domkab.github.io/layout_creativeBakery/)  
   - Source Code: [GitHub Repository](https://github.com/your-username/creative-bakery-repo)
 
