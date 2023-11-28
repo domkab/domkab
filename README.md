@@ -19,13 +19,13 @@ I'm a passionate web developer, constantly honing my skills and exploring new te
 - [Creative Bakery Layout](https://domkab.github.io/layout_creativeBakery/)  
   - Source Code: [GitHub Repository](https://github.com/your-username/creative-bakery-repo)
 
-### JavaScript Game:
-- [2048 Game](https://domkab.github.io/js_2048_game/)  
-  - Source Code: [GitHub Repository](https://github.com/your-username/2048-game-repo)
+### JavaScript:
+- [2048 Game](https://domkab.github.io/js_2048_game/)
+  - Source Code: [GitHub Repository](https://github.com/domkab/js_2048_game/tree/develop)
 
 ### React Applications:
-- [Dynamic Todo List](https://domkab.github.io/react_dynamic-list-of-todos/)  
-  - Source Code: [GitHub Repository](https://github.com/your-username/dynamic-todo-list-repo)
+- [Todo List with Redux](https://domkab.github.io/react_dynamic-list-of-todos/)  
+  - Source Code: [GitHub Repository](https://github.com/domkab/react_todo-app-with-api/tree/develop)
 
 
 ## How to reach me 📫
