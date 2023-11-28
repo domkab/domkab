@@ -11,24 +11,29 @@ I'm a passionate web developer, constantly honing my skills and exploring new te
 
 ## My Projects 🖥️
 
-### CSS Layouts:
-- [Kickstarter Layout](https://domkab.github.io/Kickstarter)
-  - Source Code: [GitHub Repository](https://github.com/domkab/Kickstarter/tree/develop/src)
-- [MyBike Layout](https://domkab.github.io/layout_miami/)
-  - Source Code: [GitHub Repository](https://github.com/domkab/layout_miami/tree/develop/src)
-- [Creative Bakery Layout](https://domkab.github.io/layout_creativeBakery/)  
-  - Source Code: [GitHub Repository](https://github.com/your-username/creative-bakery-repo)
+## SCSS Layouts
+- **Kickstarter Layout**
+  - [Demo](https://domkab.github.io/Kickstarter)
+  - [Source Code](https://github.com/domkab/Kickstarter/tree/develop/src)
+- **MyBike Layout**
+  - [Demo](https://domkab.github.io/layout_miami/)
+  - [Source Code](https://github.com/domkab/layout_miami/tree/develop/src)
+- **Creative Bakery Layout**
+  - [Demo](https://domkab.github.io/layout_creativeBakery/)
+  - [Source Code](https://github.com/your-username/creative-bakery-repo)
 
-### JavaScript:
-- [2048 Game](https://domkab.github.io/js_2048_game/)
-  - Source Code: [GitHub Repository](https://github.com/domkab/js_2048_game/tree/develop)
+## JavaScript Games
+- **2048 Game**
+  - [Demo](https://domkab.github.io/js_2048_game/)
+  - [Source Code](https://github.com/domkab/js_2048_game/tree/develop)
 
-### React Applications:
-- [Todo List with API and Redux](https://domkab.github.io/react_todo-app-with-api)  
-  - Source Code: [GitHub Repository](https://github.com/domkab/react_todo-app-with-api/tree/develop)
-- [User Management App with Login](https://domkab.github.io/react_login-manage-api/#/login)
-  - Source Code: [GitHub Repository](https://github.com/domkab/react_login-manage-api/tree/main)
-
+## React Applications
+- **Todo List with API and Redux**
+  - [Demo](https://domkab.github.io/react_todo-app-with-api)
+  - [Source Code](https://github.com/domkab/react_todo-app-with-api/tree/develop)
+- **User Management App with Login**
+  - [Demo](https://domkab.github.io/react_login-manage-api/#/login)
+  - [Source Code](https://github.com/domkab/react_login-manage-api/tree/main)
 
 ## How to reach me 📫
 - LinkedIn: [Dominykas Bobinas](https://www.linkedin.com/in/dominykas-bobinas-b7159a225/)
