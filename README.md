@@ -10,14 +10,23 @@ I'm a passionate web developer, constantly honing my skills and exploring new te
 - React.js projects where I can contribute my knowledge, learn from others, and deliver value.
 
 ## My Projects 🖥️
-- CSS Layouts:
-  - [Kickstarter Layout](https://domkab.github.io/Kickstarter)
-  - [Miami Layout](https://domkab.github.io/layout_miami/)
-  - [Creative Bakery Layout](https://domkab.github.io/layout_creativeBakery/)
-- JavaScript Game:
-  - [2048 Game](https://domkab.github.io/js_2048_game/)
-- React Applications:
-  - [Dynamic Todo List](https://domkab.github.io/react_dynamic-list-of-todos/)
+
+### CSS Layouts:
+- [Kickstarter Layout](https://domkab.github.io/Kickstarter)  
+  - Source Code: [GitHub Repository](https://github.com/your-username/Kickstarter-repo)
+- [Miami Layout](https://domkab.github.io/layout_miami/)  
+  - Source Code: [GitHub Repository](https://github.com/your-username/miami-layout-repo)
+- [Creative Bakery Layout](https://domkab.github.io/layout_creativeBakery/)  
+  - Source Code: [GitHub Repository](https://github.com/your-username/creative-bakery-repo)
+
+### JavaScript Game:
+- [2048 Game](https://domkab.github.io/js_2048_game/)  
+  - Source Code: [GitHub Repository](https://github.com/your-username/2048-game-repo)
+
+### React Applications:
+- [Dynamic Todo List](https://domkab.github.io/react_dynamic-list-of-todos/)  
+  - Source Code: [GitHub Repository](https://github.com/your-username/dynamic-todo-list-repo)
+
 
 ## How to reach me 📫
 - LinkedIn: [Dominykas Bobinas](https://www.linkedin.com/in/dominykas-bobinas-b7159a225/)
