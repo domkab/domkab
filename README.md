@@ -9,7 +9,7 @@ I'm a passionate web developer, constantly honing my skills and exploring new te
 ## I’m looking to collaborate on: 💞️
 - React.js projects where I can contribute my knowledge, learn from others, and deliver value.
 
-## My Projects 🖥️
+# My Projects 🖥️
 
 ## SCSS Layouts
 - **Kickstarter Layout**
