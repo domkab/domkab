@@ -24,7 +24,7 @@ I'm a passionate web developer, constantly honing my skills and exploring new te
   - Source Code: [GitHub Repository](https://github.com/domkab/js_2048_game/tree/develop)
 
 ### React Applications:
-- [Todo List with Redux](https://domkab.github.io/react_dynamic-list-of-todos/)  
+- [Todo List with API and Redux](https://domkab.github.io/react_todo-app-with-api)  
   - Source Code: [GitHub Repository](https://github.com/domkab/react_todo-app-with-api/tree/develop)
 
 
