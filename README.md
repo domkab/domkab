@@ -4,6 +4,7 @@ I'm a passionate web developer, constantly honing my skills and exploring new te
 
 ## What I'm working on 🌱
 - Sharpening my React.js skills through hands-on projects and courses.
+- Currently learning and implementing React Router
 - Contributing to open-source projects to help solve real-world problems and learn from the community.
 
 ## I’m looking to collaborate on: 💞️
