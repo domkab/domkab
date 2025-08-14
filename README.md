@@ -9,7 +9,7 @@ Node.js, Next.
   - **next based blog app**
     - [Source](https://github.com/domkab/next-blog)
    
-  - ** portfolio site with custom content management system **
+  - **portfolio site with custom content management system**
     - [Source](https://github.com/domkab/gargofx)
 
   ## SCSS Layouts
