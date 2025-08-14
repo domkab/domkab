@@ -4,6 +4,14 @@ Node.js, Next.
 
 # My Projects 🖥️
 
+  ## Full stack apps
+
+  - **next based blog app**
+    - [Source](https://github.com/domkab/next-blog)
+   
+  - ** portfolio site with custom content management system **
+    - [Source](https://github.com/domkab/gargofx)
+
   ## SCSS Layouts
   - **Kickstarter Layout**
     - [Demo](https://domkab.github.io/Kickstarter)
